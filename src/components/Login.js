@@ -8,7 +8,8 @@ const Login = () => {
     return (
         <div id="login-page">
             <div id="login-card">
-                <h2 className='fading-text'>Welcome!</h2>
+                <h2>Welcome to <a href="https://github.com/pkashi1/Chat-System" title='GitHub Link'>Chit-Chat!</a></h2>
+                <p>A Simple, Secure, and User-Friendly Messenger</p>
                 <div className='login-button google'>
                     <GoogleOutlined/>{' '}{' '}Sign In With Google
                 </div>
