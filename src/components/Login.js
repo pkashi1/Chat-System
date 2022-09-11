@@ -4,7 +4,8 @@ import React from 'react';
 import { FacebookOutlined, GoogleOutlined } from '@ant-design/icons';
 import "firebase/app";
 
-import { auth } from '..src/firebase.js';
+import { auth } from '../firebase';
+import firebase from 'firebase/app'
 
 const Login = () => {
 
