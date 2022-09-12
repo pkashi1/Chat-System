@@ -25,7 +25,7 @@ const Chats = () => {
                </div>
            </div>
            <ChatEngine height = "calc(100vh - 66px)"
-                projectId=""
+                projectId="227453a7-3986-4da2-bb8f-cad0c27a4027"
                 userName="."
                 userSecret=".">
 
